@@ -10,10 +10,8 @@ Before you can run the Pacman game, ensure that you have the following prerequis
 
 Running the Game
 To run the Pacman game:
-1. Clone this repository to your local machine using Git:
-        git clone https://github.com/your-username/pacman-game.git
-2. Navigate to the project directory:
-         cd pacman-game
+1. Clone this repository to your local machine using Git
+2. Navigate to the project directory
 3. Compile the Java source code:
          javac pacman/*.java
 4. Run the game
