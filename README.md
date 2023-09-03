@@ -27,18 +27,21 @@ This will launch the Pacman game window, and you can start playing by following 
 
 
   **Game Features**
+  
 Classic Pacman gameplay with a maze, dots, ghosts, and Pacman.
 Simple controls using arrow keys.
 Score tracking and lives display.
 Progressive difficulty as you clear levels.
 
 **How to Play**
+
 Use the arrow keys (Up, Down, Left, Right) to control Pacman's movement.
 Eat all the dots in the maze while avoiding contact with the ghosts.
 If Pacman collides with a ghost, you lose a life.
 The game ends when you run out of lives.
 
 **Customization**
+
 Feel free to customize and enhance the game as you see fit. Here are some ideas for improvements:
 Add more levels with different mazes.
 Implement different ghost behaviors for added challenge.
