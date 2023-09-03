@@ -32,7 +32,7 @@ Simple controls using arrow keys.
 Score tracking and lives display.
 Progressive difficulty as you clear levels.
 
- **How to Play**
+**How to Play**
 Use the arrow keys (Up, Down, Left, Right) to control Pacman's movement.
 Eat all the dots in the maze while avoiding contact with the ghosts.
 If Pacman collides with a ghost, you lose a life.
